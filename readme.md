@@ -18,5 +18,5 @@ http://devf.la
 
 <img src="./">
 
-http://mermeaid-js
+https://mermaid-js.github.io/mermaid/#/
 
